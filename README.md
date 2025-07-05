@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **VinitSingh.dev@gmail.com**
 
-- ⚡ Fun fact **I love fixing bugs I caused 10 minutes ago while trying to fix other bugs I caused 20 minutes ago.**
+- ⚡ Fun fact **I love fixing bugs I caused 10 minutes ago while trying to fix other bugs I caused 20 minutes ago. :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

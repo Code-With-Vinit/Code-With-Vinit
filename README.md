@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **VinitSingh.dev@gmail.com**
+- 📫 Reach out to me @ **VinitSingh.dev@gmail.com**
 
 - ⚡ Fun fact **I love fixing bugs I caused 10 minutes ago while trying to fix other bugs I caused 20 minutes ago. :)**
 

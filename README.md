@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-vinit" alt="code-with-vinit" /></a> </p>
 
-- 🔭 I’m currently working on **XMedify**
+- 🔭 I’m currently building **XBOT-AI**- an application where the user can chat with an AI model and also give some feedback at each stage of the conversation.
 
 - 🌱 I’m currently learning **MERN stack**
 

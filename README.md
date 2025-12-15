@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently building **XBOT-AI**- an application where the user can chat with an AI model and also give some feedback at each stage of the conversation.
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack development**
 
 - 💬 Ask me about **Frontend Development**
 
